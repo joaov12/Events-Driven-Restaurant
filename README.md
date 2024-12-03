@@ -13,3 +13,8 @@ Este repositório contém 2 microserviços seguindo uma arquitetura Events-drive
 - MapStruct
 - Docker & Docker-Compose
 
+
+## Contato
+
+- [João Vitor Soares](https://www.linkedin.com/in/jo%C3%A3o-vitor-farias-soares-216870238/)
+
